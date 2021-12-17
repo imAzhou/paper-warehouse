@@ -17,9 +17,8 @@
 13. [On Urinary Bladder Cancer Diagnosis: Utilization of Deep Convolutional Generative Adversarial Networks for Data Augmentation](https://www.mdpi.com/2079-7737/10/3/175) —— 4 January 2021 Biology
 14. [MRI and CT bladder segmentation from classical to deep learning based approaches: Current limitations and lessons](https://www.sciencedirect.com/science/article/abs/pii/S0010482521002663?via%3Dihub) —— 2 May 2021 Computers in Biology and Medicine(pdf可在未发表列表第一条链接中获取)
 15. [Automatic Diagnostic Tool for Predicting Cancer Grade in Bladder Cancer Patients Using Deep Learning](https://ieeexplore.ieee.org/document/9513308) —— 13 August 2021 IEEE
-16. [Putative markers for the detection of early-stage bladder cancer selected by urine metabolomics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04235-z) —— 05 June 2021 BMC Bioinformatics
-17. [Integrating General and Specific Priors into Deep Convolutional Neural Networks for Bladder Tumor Segmentation](https://ieeexplore.ieee.org/document/9533813) —— 22 July 2021 IEEE
-18. [A Cad System For Accurate Diagnosis Of Bladder Cancer Staging Using A Multiparametric MRI](https://ieeexplore.ieee.org/document/9434097) —— 16 April 2021 IEEE
+16. [Integrating General and Specific Priors into Deep Convolutional Neural Networks for Bladder Tumor Segmentation](https://ieeexplore.ieee.org/document/9533813) —— 22 July 2021 IEEE
+17. [A Cad System For Accurate Diagnosis Of Bladder Cancer Staging Using A Multiparametric MRI](https://ieeexplore.ieee.org/document/9434097) —— 16 April 2021 IEEE
 
 ## 未发表
 
