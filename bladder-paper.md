@@ -3,7 +3,7 @@
 ## 已发表
 
 1. [Multi-region segmentation of bladder cancer structures in MRI with progressive dilated convolutional networks](https://arxiv.org/abs/1805.10720) —— 20 Nov 2018 Medical Physics
-2. [Deep learning-based classification of blue light cystoscopy imaging during transurethral resection of bladder tumors](https://www.nature.com/articles/s41598-021-91081-x) —— 02 June 2021 Nature
+2. [Deep learning-based classification of blue light cystoscopy imaging during transurethral resection of bladder tumors](https://www.nature.com/articles/s41598-021-91081-x) —— 02 June 2021 Nature Scientific Reports
 3. [Support System of Cystoscopic Diagnosis for Bladder Cancer Based on Artificial Intelligence](https://www.liebertpub.com/doi/10.1089/end.2019.0509) —— 17 Mar 2020 Journal of Endourology
 4. [DEEP LEARNING SYSTEM FOR AUTOMATIC DETECTION OF BLADDER TUMORS IN NARROW-BAND IMAGING (NBI) CYSTOSCOPIC IMAGES](https://www.auajournals.org/doi/10.1097/JU.0000000000002069.09) —— 3 Sep 2021 Journal of Endourology
 5. [Cystoscopic Imaging for Bladder Cancer Detection Based on Stepwise Organic Transfer Learning with a Pretrained Convolutional Neural Network](https://www.liebertpub.com/doi/10.1089/end.2020.0919) —— 14 Jul 2021 Journal of Endourology
